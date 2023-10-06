@@ -1,0 +1,23 @@
+form{
+    margin: 0 auto;
+    width: 250px;
+}
+h2{
+    text-align: center;
+    font-style:normal;
+}
+body{
+    font-size: larger;
+    font-family: arial;
+    background-image: url('bumble.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: fixed;
+}
+.btn{
+    margin-top: 5px;
+    margin-bottom: 5;
+    font-size: 12px;
+    position: absolute;
+    align-items: center;
+}
